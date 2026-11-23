@@ -1,0 +1,61 @@
+MICHAEL CHEN
+michael.chen@email.com | +1-777-888-9999 | LinkedIn: linkedin.com/in/mchen
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4 years of experience in cloud infrastructure, CI/CD, and automation. 
+Expert in Kubernetes, Docker, and AWS. Passionate about building reliable and scalable systems.
+
+TECHNICAL EXPERTISE
+Cloud Platforms: AWS (EC2, ECS, EKS, S3, Lambda, CloudFormation), Azure, GCP
+Containers & Orchestration: Docker, Kubernetes, Docker Compose, Helm
+CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
+Infrastructure as Code: Terraform, Ansible, CloudFormation
+Monitoring: Prometheus, Grafana, ELK Stack, DataDog
+Scripting: Python, Bash, PowerShell
+Version Control: Git, GitLab, GitHub
+
+WORK EXPERIENCE
+
+Senior DevOps Engineer | CloudTech Solutions | Seattle, WA
+April 2022 - Present
+• Designed and implemented Kubernetes cluster serving 50+ microservices
+• Reduced deployment time from 2 hours to 15 minutes using automated CI/CD pipelines
+• Managed AWS infrastructure supporting 99.99% uptime SLA
+• Implemented infrastructure as code using Terraform, managing 200+ AWS resources
+• Set up comprehensive monitoring with Prometheus and Grafana
+• Conducted security audits and implemented best practices
+• Led migration of legacy applications to containerized architecture
+
+DevOps Engineer | StartupHub Inc. | Remote
+January 2020 - March 2022
+• Built CI/CD pipelines using Jenkins and Docker
+• Automated deployment processes, reducing manual intervention by 80%
+• Managed AWS infrastructure including EC2, RDS, and S3
+• Implemented log aggregation using ELK stack
+• Created Ansible playbooks for configuration management
+• Participated in on-call rotation for production support
+
+EDUCATION
+
+Bachelor of Science in Computer Engineering
+University of Washington | 2015 - 2019
+Relevant Coursework: Cloud Computing, Distributed Systems, Network Security
+
+CERTIFICATIONS
+
+• AWS Certified Solutions Architect - Professional
+• Certified Kubernetes Administrator (CKA)
+• HashiCorp Certified: Terraform Associate
+• AWS Certified DevOps Engineer - Professional
+
+PROJECTS & CONTRIBUTIONS
+
+• Open Source: Contributor to Kubernetes and Terraform projects (100+ commits)
+• Personal Blog: DevOps best practices and tutorials (5K monthly readers)
+• Created popular Terraform modules on GitHub (500+ stars)
+
+ACHIEVEMENTS
+
+• Reduced infrastructure costs by 30% through resource optimization
+• Implemented zero-downtime deployment strategy
+• Received "Innovation Award" for automation improvements in 2023

@@ -1,0 +1,129 @@
+{
+  "job_descriptions": [
+    {
+      "job_id": "JD001",
+      "title": "Senior Python Developer",
+      "department": "Engineering",
+      "required_skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Git"
+      ],
+      "experience_years_min": 3,
+      "experience_years_max": 5,
+      "education_degree": "Bachelor's",
+      "education_field": "Computer Science",
+      "responsibilities": [
+        "Develop scalable web applications using Django",
+        "Design and implement RESTful APIs",
+        "Collaborate with cross-functional teams",
+        "Mentor junior developers",
+        "Deploy applications on AWS infrastructure"
+      ],
+      "description": "We are looking for an experienced Python Developer to join our growing engineering team. You will be responsible for building robust backend systems and APIs."
+    },
+    {
+      "job_id": "JD002",
+      "title": "Data Scientist",
+      "department": "Analytics",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow",
+        "Pandas",
+        "SQL",
+        "Statistics"
+      ],
+      "experience_years_min": 2,
+      "experience_years_max": 4,
+      "education_degree": "Master's",
+      "education_field": "Data Science",
+      "responsibilities": [
+        "Build and deploy machine learning models",
+        "Analyze large datasets to extract insights",
+        "Collaborate with product teams on data-driven features",
+        "Present findings to stakeholders",
+        "Optimize model performance"
+      ],
+      "description": "Join our data science team to build cutting-edge ML models that power our product recommendations and analytics."
+    },
+    {
+      "job_id": "JD003",
+      "title": "DevOps Engineer",
+      "department": "Infrastructure",
+      "required_skills": [
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "Terraform",
+        "Jenkins",
+        "Python"
+      ],
+      "experience_years_min": 3,
+      "experience_years_max": 6,
+      "education_degree": "Bachelor's",
+      "education_field": "Computer Science",
+      "responsibilities": [
+        "Manage and optimize cloud infrastructure",
+        "Implement CI/CD pipelines",
+        "Monitor system performance and reliability",
+        "Automate deployment processes",
+        "Ensure security best practices"
+      ],
+      "description": "We need a skilled DevOps Engineer to manage our cloud infrastructure and streamline our deployment processes."
+    },
+    {
+      "job_id": "JD004",
+      "title": "Frontend Developer",
+      "department": "Engineering",
+      "required_skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Redux"
+      ],
+      "experience_years_min": 2,
+      "experience_years_max": 4,
+      "education_degree": "Bachelor's",
+      "education_field": "Computer Science",
+      "responsibilities": [
+        "Build responsive user interfaces with React",
+        "Implement complex UI components",
+        "Optimize frontend performance",
+        "Collaborate with designers and backend teams",
+        "Write clean, maintainable code"
+      ],
+      "description": "Looking for a talented Frontend Developer to create beautiful, performant user experiences for our web applications."
+    },
+    {
+      "job_id": "JD005",
+      "title": "Product Manager",
+      "department": "Product",
+      "required_skills": [
+        "Product Strategy",
+        "Agile",
+        "Jira",
+        "SQL",
+        "Data Analysis",
+        "Stakeholder Management"
+      ],
+      "experience_years_min": 4,
+      "experience_years_max": 7,
+      "education_degree": "Bachelor's",
+      "education_field": "Business",
+      "responsibilities": [
+        "Define product vision and strategy",
+        "Manage product roadmap and backlog",
+        "Collaborate with engineering and design teams",
+        "Analyze user feedback and metrics",
+        "Present to executive leadership"
+      ],
+      "description": "Seeking an experienced Product Manager to lead our flagship product and drive its growth."
+    }
+  ]
+}

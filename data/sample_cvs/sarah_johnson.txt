@@ -1,0 +1,63 @@
+SARAH JOHNSON
+sarah.johnson@email.com | +1-555-123-4567 | GitHub: github.com/sarahj
+
+SUMMARY
+Data Scientist with 3 years of experience in machine learning and statistical analysis. 
+Specialized in building predictive models and extracting actionable insights from large datasets. 
+Strong background in Python, TensorFlow, and data visualization.
+
+SKILLS
+Programming: Python, R, SQL
+Machine Learning: TensorFlow, PyTorch, Scikit-learn, Keras
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+Big Data: Spark, Hadoop
+Databases: PostgreSQL, MongoDB
+Cloud: AWS SageMaker, Google Cloud Platform
+Version Control: Git, GitHub
+
+EXPERIENCE
+
+Data Scientist | DataCorp | New York, NY
+June 2022 - Present
+• Developed recommendation system using collaborative filtering, increasing user engagement by 25%
+• Built time series forecasting models for demand prediction with 90% accuracy
+• Analyzed customer behavior data using Python and SQL to identify growth opportunities
+• Created interactive dashboards using Tableau for executive team
+• Collaborated with engineering team to deploy ML models in production
+• Reduced model training time by 50% through optimization techniques
+
+Junior Data Scientist | Analytics Inc. | Boston, MA
+July 2020 - May 2022
+• Performed exploratory data analysis on datasets with 10M+ rows
+• Built classification models for customer churn prediction
+• Conducted A/B testing and statistical analysis for product features
+• Automated data pipelines using Python scripts
+• Presented findings to stakeholders through data visualizations
+
+EDUCATION
+
+Master of Science in Data Science
+Massachusetts Institute of Technology | 2018 - 2020
+Thesis: Deep Learning for Natural Language Processing
+
+Bachelor of Science in Statistics
+Boston University | 2014 - 2018
+Minor: Mathematics
+GPA: 3.8/4.0
+
+PUBLICATIONS & PROJECTS
+
+• Published paper: "Ensemble Methods for Time Series Forecasting" - IEEE Conference 2023
+• Kaggle Competitions: Top 5% in 3 competitions
+• Personal Project: Built sentiment analysis tool using BERT and Streamlit
+
+CERTIFICATIONS
+
+• TensorFlow Developer Certificate - Google
+• Machine Learning Specialization - Stanford Online
+• AWS Certified Machine Learning - Specialty
+
+AWARDS
+
+• Best ML Project Award - MIT Data Science Competition 2020
+• Kaggle Expert Badge
